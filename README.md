@@ -67,7 +67,6 @@ Run the development server:
 npm run dev
 
 
-Open the app at http://localhost:5173 (or the port Vite provides).
 
 🎯 Usage
 
